@@ -1,0 +1,8 @@
+requirements
+
+streamlit
+pandas
+requests
+beautifulsoup4
+wordcloud
+matplotlib
